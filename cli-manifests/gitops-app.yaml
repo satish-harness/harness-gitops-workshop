@@ -16,7 +16,7 @@ gitops:
         targetRevision: main
       destination:
         server: https://kubernetes.default.svc
-        namespace: default
+        namespace: harness-gitops
   agentIdentifier: AGENT_NAME
   clusterIdentifier: gitopscluster
   repoIdentifier: gitopsrepo
