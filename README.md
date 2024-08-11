@@ -6,4 +6,4 @@ In this workshop, we'll use the Harness CI, CD, and GitOps modules to demonstrat
 
 To follow this tutorial, visit [Harness Developer Hub](https://developer.harness.io/tutorials/cd-pipelines/unified-cicd/e2e-pipeline).
 
-Thank you !
+
