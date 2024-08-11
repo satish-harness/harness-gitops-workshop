@@ -5,6 +5,6 @@
     "name" : "gitopscluster",
     "namespace" : "prod"
   },
-  "asset_id" : "12345678",
-  "aws_account" : "123456"
+  "aws_account" : "123456",
+  "asset_id" : "satish-harness-dab5e91c28f4a265eabe14da70b77284bd1555f5"
 }
