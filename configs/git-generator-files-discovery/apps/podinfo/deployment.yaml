@@ -23,7 +23,7 @@ spec:
     spec:
       containers:
       - name: podinfod
-        image: satishharness/harness-gitops-workshop:34902cbe7e57a6e5ac9968bbd0945a62a2cf05dc
+        image: satishharness/harness-gitops-workshop:86a7ab6206c7a609b0a7483dd5286ceb9bdd399d
         imagePullPolicy: IfNotPresent
         ports:
         - name: http
